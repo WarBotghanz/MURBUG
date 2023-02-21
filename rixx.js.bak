@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'WARR VVIP👑'
-global.ownerNumber = ["083876153812@s.whatsapp.net"]
+global.ownerName = '𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏👑'
+global.ownerNumber = ["085817971098@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -214,12 +214,12 @@ return rixx.relayMessage(progene.key.remoteJid, progene.message, {
 messageId: ""
 })
 }
-let kafloc = {key : {participant : '0@s.whatsapp.net', ...(rixxbotwhatsapp.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `WARR VVIP🐣 : ${runtime(process.uptime())}`,jpegThumbnail: fs.readFileSync('./image/thumbnail.jpg')}}}
+let kafloc = {key : {participant : '0@s.whatsapp.net', ...(rixxbotwhatsapp.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏🐣 : ${runtime(process.uptime())}`,jpegThumbnail: fs.readFileSync('./image/thumbnail.jpg')}}}
 switch (command) {
 case 'menu':{
 rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : 6283876153812
-┣❏ ɴᴀᴍᴇ ʙᴏᴛ : WARR BUG🔥
+┣❏ ᴏᴡɴᴇʀ : 62895321165313
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : AZRIL BUG🔥
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱
 ╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
@@ -230,7 +230,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤addakses @
 ╠➤delakses @
 ╠➤kick @
-╚════[ WAR STORE ]══════⊱
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 
 ╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
 ╠➤ 🐣 62xxx
@@ -241,7 +241,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤ ☠️ 62xxx
 ╠➤ 🤓 62xxx
 ╠➤ 😴 62xxx
-╚════[ WAR STORE ]══════⊱
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 
 ┏━━━━━━━━━━━━━━━━⊱ 
 ┣❏ 𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐧𝐨𝐦𝐨𝐫 𝐭𝐚𝐫𝐠𝐞𝐭
@@ -252,12 +252,12 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤kursihijau 62xxx
 ╠➤alokhamil 62xxx
 ╠➤bantengmerah 62xxx
-╚════[ WAR STORE ]══════⊱
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 
 ╔══════[ 𝘽𝙐𝙂 𝙎𝘼𝙉𝙏𝙀𝙏 ]══════⊱
 ╠➤santet 62xxx
 ╠➤santetgc (linkgrup)
-╚════[ WAR STORE ]══════⊱
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 
 ╔══════[ 𝘽𝙐𝙂 𝘼𝙏𝙏𝘼𝘾𝙆 ]══════⊱
 ╠➤banned 62xxxxx
@@ -280,7 +280,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤kedzbugslebew 62xxxxx
 ╠➤kedzneko 62xxxxx
 ╠➤kedzhentai 62xxxxx
-╚════[ WAR STORE ]══════⊱`}, {quoted: kafloc})
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱`}, {quoted: kafloc})
 }
 break
 case 'kick': {
@@ -317,8 +317,8 @@ textsewa = `
 ╠➤ 𝚂𝙴𝚆𝙰 𝙱𝙾𝚃 𝟷 𝙱𝚄𝙻𝙰𝙽 𝟷𝟶𝙺
 ╠➤ 𝙾𝙿𝙴𝙽 𝙹𝙰𝚂𝙰 𝚁𝚄𝙽 𝙱𝙾𝚃 𝟹𝟶𝙺
 ╠➤ 𝚂𝙲𝚁𝙸𝙿𝚃 𝙱𝙾𝚃? 𝟹𝟻𝙺
-╠➤ wa.me/6283876153812
-╚════[ WAR STORE ]══════⊱
+╠➤ wa.me/62895321165313
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 `
 rixxbotwhatsapp.reply(textsewa)
 break
@@ -328,7 +328,7 @@ textrules = `
 ╠➤ 𝐍𝐎 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓
 ╠➤ 𝐍𝐎 𝐓𝐄𝐋𝐏𝐎𝐍 𝐁𝐎𝐓
 ╠➤ 𝐉𝐄𝐃𝐀 𝐌𝐈𝐍𝐈𝐌𝐀𝐋 𝟓 𝐌𝐄𝐍𝐈𝐓
-╚════[ WAR STORE ]══════⊱
+╚════[ 𝐀𝐙𝐑𝐈𝐋 𝐕𝐈𝐏 ]══════⊱
 `
 rixxbotwhatsapp.reply(textrules)
 break
